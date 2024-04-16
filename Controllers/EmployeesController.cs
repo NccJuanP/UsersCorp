@@ -71,7 +71,7 @@ namespace Sistema.Controllers
         public async Task <IActionResult> Logout()
         {
             string? datestring = HttpContext.Session.GetString("history");
-            DateHistory? date = JsonConvert.DeserializeObject<DateHistory>(datestring);
+            DateHistory date = JsonConvert.DeserializeObject<DateHistory>(datestring);
             if (date != null){
                 date.Exits = DateTime.Now;
                 await _context.DateHistory.AddAsync(date);
