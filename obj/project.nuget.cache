@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0z/FLhDuTYsXflTlzxjZB/+vpS3B+8cKli2v2SMBLOPHg4DWPMuby8Inm6gsxg7c8hNwaQhy48HkKZgQ0GuBfQ==",
+  "dgSpecHash": "wMXUFChDfh3HD7DgvOlHdZPlooBePzb8EnxdEDiykWgThgpgkv/qfrMW93+1caJJMQdWeHqsWlihcn2GqnZGbw==",
   "success": true,
-  "projectFilePath": "/home/riwip4-047/Documents/pablo/trabajo/UsersCorp/Sistema.csproj",
+  "projectFilePath": "/home/riwip4-047/Documents/pablo/trabajo/otro/Sistema.csproj",
   "expectedPackageFiles": [
     "/home/riwip4-047/.nuget/packages/bouncycastle.cryptography/2.2.1/bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "/home/riwip4-047/.nuget/packages/google.protobuf/3.25.1/google.protobuf.3.25.1.nupkg.sha512",
