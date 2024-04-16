@@ -18,12 +18,8 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = E:\Copia de seguridad PC\Riwi\UsersCorp
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/Copia de seguridad PC/Riwi/UsersCorp/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[E:/Copia de seguridad PC/Riwi/UsersCorp/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[E:/Copia de seguridad PC/Riwi/UsersCorp/Views/Employees/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/Copia de seguridad PC/Riwi/UsersCorp/Views/Shared/Error.cshtml]
