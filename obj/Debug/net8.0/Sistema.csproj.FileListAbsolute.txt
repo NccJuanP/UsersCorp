@@ -57,3 +57,4 @@
 /home/riwip5-018/Documents/juan pablo/c#/Sistema/bin/Debug/net8.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
 /home/riwip5-018/Documents/juan pablo/c#/Sistema/obj/Debug/net8.0/Sistema.csproj.AssemblyReference.cache
 /home/riwip5-018/Documents/juan pablo/c#/Sistema/obj/Debug/net8.0/Sistema.csproj.CopyComplete
+/home/riwip5-018/Documents/juan pablo/c#/Sistema/obj/Debug/net8.0/Sistema.sourcelink.json
