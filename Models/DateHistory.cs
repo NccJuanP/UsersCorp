@@ -1,5 +1,4 @@
 using System.ComponentModel.DataAnnotations;
-using Microsoft.EntityFrameworkCore;
 
 namespace Sistema.Models{
     public class DateHistory{
@@ -7,6 +6,6 @@ namespace Sistema.Models{
         public int Id { get; set; }
         public string? Entries { get; set; }
         public string? Exits { get; set; }
-        public int EmployeesId  { get; set; }
+        public int EmployeesId { get; set; }
     }
 }
