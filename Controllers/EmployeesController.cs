@@ -16,6 +16,10 @@ namespace Sistema.Controllers
             _context = context;
         }
 
+       /*   public async Task <IActionResult> Delete(){
+            return View(await _context.Employees.ToListAsync());
+        } */
+
         public IActionResult Index()
         {
             string? sesion = HttpContext.Session.GetString("sesion");
@@ -79,6 +83,21 @@ namespace Sistema.Controllers
                 HttpContext.Session.Remove("sesion");
                 }
                 return RedirectToAction("Index");
+        }
+        public IActionResult Register(){
+            return View();
+        }
+        public IActionResult Details(){
+            return View();
+        }
+        public IActionResult Delete(){
+            return View();
+        }
+        public IActionResult Update(){
+            return View();
+        }
+        public IActionResult User(){
+            return View();
         }
     }
 }
