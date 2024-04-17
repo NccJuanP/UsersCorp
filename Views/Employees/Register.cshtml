@@ -1,24 +1,26 @@
+@model Sistema.Models.Employee;
+
 <div class="d-flex flex-column mt-5 align-items-center">
     <h1 class="h11">UsersCorp</h1>
     <h3 class="mt-5">Register</h3>
-    <form method="post" class="d-flex flex-column mt-3 align-items-center">
+    <form method="post" class="d-flex flex-column mt-3 align-items-center" asp-action="Register">
         <div>
-            <input class="input1 mt-4" type="text" id="name" name="name" placeholder="Name"/>
+            <input asp-for="Name" class="input1 mt-4" type="text" id="name" placeholder="Name"/>
         </div>
         <div>
-            <input class="input1 mt-4" type="text" id="lastname" name="lastname" placeholder="Lastname"/>
+            <input asp-for="LastNames" class="input1 mt-4" type="text" id="lastname"  placeholder="Lastname"/>
         </div>
         <div>
-            <input class="input1 mt-4" type="text" id="email" name="email" placeholder="Email"/>
+            <input asp-for="Email" class="input1 mt-4" type="text" id="email" placeholder="Email"/>
         </div>
         <div>
-            <input class="input1 mt-4" type="phone" id="phone" name="phone" placeholder="Phone"/>
+            <input asp-for="Phone" class="input1 mt-4" type="phone" id="phone" placeholder="Phone"/>
         </div>
         <div>
-            <input class="input1 mt-4" type="password" id="password" name="password" placeholder="Password"/>
+            <input asp-for="Password" class="input1 mt-4" type="password" id="password"  placeholder="Password"/>
         </div>
         <div>
-            <a class="button1">Register</a>
+            <button type="submit" class="button1" asp-action="Create">Register</button>
         </div>
     </form>
     <div>

@@ -36,7 +36,7 @@ body {
 .input1:focus {
   background-color: white;
   transform: scale(1.05);
-  box-shadow: 13px 13px 100px #969696,
+  box-shadow: 13px 13px 100px #ff0000,
              -13px -13px 100px #ffffff;
 }
 
