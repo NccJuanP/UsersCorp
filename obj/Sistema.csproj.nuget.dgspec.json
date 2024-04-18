@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/riwip4-030/Pictures/pablo/Sistema/Sistema.csproj": {}
+    "/home/riwip5-017/Music/Alejo Draven/sistema/Sistema.csproj": {}
   },
   "projects": {
-    "/home/riwip4-030/Pictures/pablo/Sistema/Sistema.csproj": {
+    "/home/riwip5-017/Music/Alejo Draven/sistema/Sistema.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/riwip4-030/Pictures/pablo/Sistema/Sistema.csproj",
+        "projectUniqueName": "/home/riwip5-017/Music/Alejo Draven/sistema/Sistema.csproj",
         "projectName": "Sistema",
-        "projectPath": "/home/riwip4-030/Pictures/pablo/Sistema/Sistema.csproj",
-        "packagesPath": "/home/riwip4-030/.nuget/packages/",
-        "outputPath": "/home/riwip4-030/Pictures/pablo/Sistema/obj/",
+        "projectPath": "/home/riwip5-017/Music/Alejo Draven/sistema/Sistema.csproj",
+        "packagesPath": "/home/riwip5-017/.nuget/packages/",
+        "outputPath": "/home/riwip5-017/Music/Alejo Draven/sistema/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/riwip4-030/.nuget/NuGet/NuGet.Config"
+          "/home/riwip5-017/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -38,6 +38,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkcore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
             "MySql.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.0, )"
