@@ -3,8 +3,8 @@
 </header>
 <div>
     <div class="d-flex justify-content-between">
-        <a class="button1">Index</a>
-        <a class="button1">Log Out</a>
+        <a class="button1a mx-2 " asp-controller="Employees" asp-action="Index">Index</a>
+        <a class="button1a mx-2 " asp-controller="Uservalidations" asp-action="Logout">Log Out</a>
     </div>
     <div>
         <div class="d-flex justify-content-center">
@@ -32,7 +32,7 @@
                             <td>@item.Email</td>
                             <td>@item.Phone</td>
                             <td>
-                                <a class="button1" asp-action="Details" asp-route-id="@item.Id">Details</a> 
+                                <a class="button1" asp-controller="Employees" asp-action="Details" asp-route-id="@item.Id">Details</a> 
 
                             </td>
                         </tr>

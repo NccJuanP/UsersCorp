@@ -3,8 +3,8 @@
 </header>
 <div>
     <div class="d-flex justify-content-between">
-        <a class="button1" asp-action="Index">Index</a>
-        <a class="button1" asp-action="Logout">Log Out</a>
+        <a class="button1a mx-2 " asp-controller="Employees" asp-action="Index">Index</a>
+        <a class="button1a mx-2 " asp-controller="Uservalidations" asp-action="Logout">Log Out</a>
     </div>
     <div>
         <div class="d-flex justify-content-center">
@@ -14,6 +14,9 @@
             <div class="d-flex flex-column mt-3 align-items-center">
                 <div class="card4">
                     <form method="post" class="d-flex flex-column mt-3 align-items-center">
+                        <div>
+                            <img class="img1" src="/images/perfil.jpg" alt="imagen">
+                        </div>
                         <div>
                             <p type="text" id="name" name="name">@ViewData["name"]</p>
                         </div>
@@ -27,8 +30,8 @@
                             <p type="phone" id="phone" name="phone">@ViewData["phone"]</p>
                         </div>
                         <div class="d-flex flex-column mt-3 align-items-center">
-                            <a class="button2 mt-2">Update</a>
-                            <a class="button2" asp-action="Delete" asp-route-id="@ViewData["id"]">Delete</a>
+                            <a class="button2d mt-2" asp-controller="Employees" asp-action="Update" asp-route-id="@ViewData["id"]">Update</a>
+                            <a class="button4" asp-controller="Employees" asp-action="Delete" asp-route-id="@ViewData["id"]">Delete</a>
                         </div>
                     </form>
                 </div>
@@ -51,8 +54,13 @@
                                     <tr class="table table-striped t1able-hover">
                                         <td>@item.Entries.ToString("dd/MM/yyyy")</td>
                                         <td>@item.Entries.ToString("HH:mm:ss")</td>
+                                        @if( item.Exits != null ){
                                         <td>@item.Exits.ToString("dd/MM/yyyy")</td>
                                         <td>@item.Exits.ToString("HH:mm:ss")</td>
+                                        }else{
+                                            <td>Pendiente salida</td>
+                                            <td>pendiente salida</td>
+                                        }
                                     </tr>
                                 }
                             </tbody>

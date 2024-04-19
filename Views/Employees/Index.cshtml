@@ -10,13 +10,17 @@
         <div class="d-flex flex-column align-items-cente">
             <div class="d-grid gap-2">
                 <a class="box mt-2 border border-dark border-2" asp-action="User" asp-controller="Employees">Users</a>
-                <a class="box mt-2 border border-dark border-2" asp-action="Details" asp-route-id="@Model.Id">History</a>
-                <a class="box mt-2 border border-dark border-2" asp-action="Register">Register User</a>
-                <a class="box mt-2 border border-dark border-2" asp-action="Details">User Options</a>
+                <a class="box mt-2 border border-dark border-2" asp-controller="Employees" asp-action="Details" asp-route-id="@Model.Id">Details</a>
+                <a class="box mt-2 border border-dark border-2" asp-controller="Uservalidations" asp-action="Register2">Register User</a>
+                @if(@Model.Estado){
+                <a class="box2 mt-2 border border-dark border-2" asp-controller="Employees" asp-action="ExitDate">Exit</a>
+                }else{
+                <a class="box3 mt-2 border border-danger border-2" asp-controller="Employees" asp-action="EntryDate">Entry</a>
+                }
             </div>
         </div>
     </div>
     <div>
-        <a class="button1 mx-2 border border-dark border-2" asp-action="logout">Log Out</a>
+        <a class="button1a mx-2 " asp-controller="Uservalidations" asp-action="logout">Log Out</a>
     </div>
 </div>

@@ -1,0 +1,25 @@
+<div class="d-flex flex-column mt-5 align-items-center">
+    <h1 class="h12">UsersCorp</h1>
+    <h3 class="mt-5">Login</h3>
+    <div class="card d-flex flex-column mt-3 align-items-center">
+    <form asp-controller="Uservalidations" asp-action="Login" class="d-flex flex-column mt-3 align-items-center">
+        <div>
+            <input class="input1 mt-4" type="text" id="email" name="Email" placeholder="Email"/>
+        </div>
+        <div>
+            <input class="input1 placeholder1 mt-4" type="password" id="password" name="Password" placeholder="Password" />
+        </div>
+        <div>
+            <button class="button2l mt-4" type="submit">Log in</button>
+        </div>
+    </form>
+    <div>
+        <a class="button2l2" asp-controller="Uservalidations" asp-action="Register">Sing up</a>
+    </div>
+</div></div>
+<br>
+    @if(ViewBag.error != null){
+        <div class="alert alert-danger" role="alert">
+            @ViewBag.error
+        </div>
+    }

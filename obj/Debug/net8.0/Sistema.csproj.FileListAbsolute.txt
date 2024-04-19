@@ -482,3 +482,430 @@ C:/Users/Administrador/Documents/jp/riwi/Sistema/bin/Debug/net8.0/Newtonsoft.Jso
 /home/riwip4-030/Pictures/pablo/Sistema/obj/Debug/net8.0/Sistema.pdb
 /home/riwip4-030/Pictures/pablo/Sistema/obj/Debug/net8.0/Sistema.genruntimeconfig.cache
 /home/riwip4-030/Pictures/pablo/Sistema/obj/Debug/net8.0/ref/Sistema.dll
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/bin/Debug/net8.0/appsettings.json
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/bin/Debug/net8.0/Sistema.staticwebassets.runtime.json
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/bin/Debug/net8.0/Sistema.exe
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/bin/Debug/net8.0/Sistema.deps.json
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/bin/Debug/net8.0/Sistema.runtimeconfig.json
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/bin/Debug/net8.0/Sistema.dll
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/bin/Debug/net8.0/Sistema.pdb
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/bin/Debug/net8.0/Google.Protobuf.dll
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/bin/Debug/net8.0/K4os.Compression.LZ4.dll
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/bin/Debug/net8.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/bin/Debug/net8.0/K4os.Hash.xxHash.dll
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/bin/Debug/net8.0/MySql.Data.dll
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/bin/Debug/net8.0/MySql.EntityFrameworkCore.dll
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/bin/Debug/net8.0/Newtonsoft.Json.dll
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/bin/Debug/net8.0/System.Drawing.Common.dll
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/bin/Debug/net8.0/System.Security.Permissions.dll
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/bin/Debug/net8.0/System.Windows.Extensions.dll
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/bin/Debug/net8.0/ZstdSharp.dll
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/bin/Debug/net8.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/bin/Debug/net8.0/runtimes/win-x64/native/comerr64.dll
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/bin/Debug/net8.0/runtimes/win-x64/native/gssapi64.dll
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/bin/Debug/net8.0/runtimes/win-x64/native/k5sprt64.dll
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/bin/Debug/net8.0/runtimes/win-x64/native/krb5_64.dll
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/bin/Debug/net8.0/runtimes/win-x64/native/krbcc64.dll
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/bin/Debug/net8.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/bin/Debug/net8.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/bin/Debug/net8.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/bin/Debug/net8.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/obj/Debug/net8.0/Sistema.csproj.AssemblyReference.cache
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/obj/Debug/net8.0/Sistema.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/obj/Debug/net8.0/Sistema.AssemblyInfoInputs.cache
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/obj/Debug/net8.0/Sistema.AssemblyInfo.cs
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/obj/Debug/net8.0/Sistema.csproj.CoreCompileInputs.cache
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/obj/Debug/net8.0/Sistema.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/obj/Debug/net8.0/Sistema.RazorAssemblyInfo.cache
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/obj/Debug/net8.0/Sistema.RazorAssemblyInfo.cs
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/obj/Debug/net8.0/Sistema.sourcelink.json
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/obj/Debug/net8.0/staticwebassets/msbuild.Sistema.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/obj/Debug/net8.0/staticwebassets/msbuild.build.Sistema.props
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Sistema.props
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Sistema.props
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/obj/Debug/net8.0/scopedcss/bundle/Sistema.styles.css
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/obj/Debug/net8.0/scopedcss/projectbundle/Sistema.bundle.scp.css
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/obj/Debug/net8.0/Sistema.csproj.CopyComplete
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/obj/Debug/net8.0/Sistema.dll
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/obj/Debug/net8.0/refint/Sistema.dll
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/obj/Debug/net8.0/Sistema.pdb
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/obj/Debug/net8.0/Sistema.genruntimeconfig.cache
+C:/Users/Administrador/Documents/jp/riwi/importante proyecto/sistema/sistema/obj/Debug/net8.0/ref/Sistema.dll
+D:/importante proyecto/sistema/bin/Debug/net8.0/appsettings.Development.json
+D:/importante proyecto/sistema/bin/Debug/net8.0/appsettings.json
+D:/importante proyecto/sistema/bin/Debug/net8.0/Sistema.staticwebassets.runtime.json
+D:/importante proyecto/sistema/bin/Debug/net8.0/Sistema.exe
+D:/importante proyecto/sistema/bin/Debug/net8.0/Sistema.deps.json
+D:/importante proyecto/sistema/bin/Debug/net8.0/Sistema.runtimeconfig.json
+D:/importante proyecto/sistema/bin/Debug/net8.0/Sistema.dll
+D:/importante proyecto/sistema/bin/Debug/net8.0/Sistema.pdb
+D:/importante proyecto/sistema/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
+D:/importante proyecto/sistema/bin/Debug/net8.0/Google.Protobuf.dll
+D:/importante proyecto/sistema/bin/Debug/net8.0/K4os.Compression.LZ4.dll
+D:/importante proyecto/sistema/bin/Debug/net8.0/K4os.Compression.LZ4.Streams.dll
+D:/importante proyecto/sistema/bin/Debug/net8.0/K4os.Hash.xxHash.dll
+D:/importante proyecto/sistema/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+D:/importante proyecto/sistema/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/importante proyecto/sistema/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/importante proyecto/sistema/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+D:/importante proyecto/sistema/bin/Debug/net8.0/MySql.Data.dll
+D:/importante proyecto/sistema/bin/Debug/net8.0/MySql.EntityFrameworkCore.dll
+D:/importante proyecto/sistema/bin/Debug/net8.0/Newtonsoft.Json.dll
+D:/importante proyecto/sistema/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+D:/importante proyecto/sistema/bin/Debug/net8.0/System.Drawing.Common.dll
+D:/importante proyecto/sistema/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+D:/importante proyecto/sistema/bin/Debug/net8.0/System.Security.Permissions.dll
+D:/importante proyecto/sistema/bin/Debug/net8.0/System.Windows.Extensions.dll
+D:/importante proyecto/sistema/bin/Debug/net8.0/ZstdSharp.dll
+D:/importante proyecto/sistema/bin/Debug/net8.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+D:/importante proyecto/sistema/bin/Debug/net8.0/runtimes/win-x64/native/comerr64.dll
+D:/importante proyecto/sistema/bin/Debug/net8.0/runtimes/win-x64/native/gssapi64.dll
+D:/importante proyecto/sistema/bin/Debug/net8.0/runtimes/win-x64/native/k5sprt64.dll
+D:/importante proyecto/sistema/bin/Debug/net8.0/runtimes/win-x64/native/krb5_64.dll
+D:/importante proyecto/sistema/bin/Debug/net8.0/runtimes/win-x64/native/krbcc64.dll
+D:/importante proyecto/sistema/bin/Debug/net8.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/importante proyecto/sistema/bin/Debug/net8.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/importante proyecto/sistema/bin/Debug/net8.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/importante proyecto/sistema/bin/Debug/net8.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+D:/importante proyecto/sistema/obj/Debug/net8.0/Sistema.csproj.AssemblyReference.cache
+D:/importante proyecto/sistema/obj/Debug/net8.0/Sistema.GeneratedMSBuildEditorConfig.editorconfig
+D:/importante proyecto/sistema/obj/Debug/net8.0/Sistema.AssemblyInfoInputs.cache
+D:/importante proyecto/sistema/obj/Debug/net8.0/Sistema.AssemblyInfo.cs
+D:/importante proyecto/sistema/obj/Debug/net8.0/Sistema.csproj.CoreCompileInputs.cache
+D:/importante proyecto/sistema/obj/Debug/net8.0/Sistema.MvcApplicationPartsAssemblyInfo.cache
+D:/importante proyecto/sistema/obj/Debug/net8.0/Sistema.RazorAssemblyInfo.cache
+D:/importante proyecto/sistema/obj/Debug/net8.0/Sistema.RazorAssemblyInfo.cs
+D:/importante proyecto/sistema/obj/Debug/net8.0/Sistema.sourcelink.json
+D:/importante proyecto/sistema/obj/Debug/net8.0/staticwebassets.build.json
+D:/importante proyecto/sistema/obj/Debug/net8.0/staticwebassets.development.json
+D:/importante proyecto/sistema/obj/Debug/net8.0/staticwebassets/msbuild.Sistema.Microsoft.AspNetCore.StaticWebAssets.props
+D:/importante proyecto/sistema/obj/Debug/net8.0/staticwebassets/msbuild.build.Sistema.props
+D:/importante proyecto/sistema/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Sistema.props
+D:/importante proyecto/sistema/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Sistema.props
+D:/importante proyecto/sistema/obj/Debug/net8.0/staticwebassets.pack.json
+D:/importante proyecto/sistema/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+D:/importante proyecto/sistema/obj/Debug/net8.0/scopedcss/bundle/Sistema.styles.css
+D:/importante proyecto/sistema/obj/Debug/net8.0/scopedcss/projectbundle/Sistema.bundle.scp.css
+D:/importante proyecto/sistema/obj/Debug/net8.0/Sistema.csproj.CopyComplete
+D:/importante proyecto/sistema/obj/Debug/net8.0/Sistema.dll
+D:/importante proyecto/sistema/obj/Debug/net8.0/refint/Sistema.dll
+D:/importante proyecto/sistema/obj/Debug/net8.0/Sistema.pdb
+D:/importante proyecto/sistema/obj/Debug/net8.0/Sistema.genruntimeconfig.cache
+D:/importante proyecto/sistema/obj/Debug/net8.0/ref/Sistema.dll
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/bin/Debug/net8.0/appsettings.Development.json
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/bin/Debug/net8.0/appsettings.json
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/bin/Debug/net8.0/Sistema.staticwebassets.runtime.json
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/bin/Debug/net8.0/Sistema
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/bin/Debug/net8.0/Sistema.deps.json
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/bin/Debug/net8.0/Sistema.runtimeconfig.json
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/bin/Debug/net8.0/Sistema.dll
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/bin/Debug/net8.0/Sistema.pdb
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/bin/Debug/net8.0/Google.Protobuf.dll
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/bin/Debug/net8.0/K4os.Compression.LZ4.dll
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/bin/Debug/net8.0/K4os.Compression.LZ4.Streams.dll
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/bin/Debug/net8.0/K4os.Hash.xxHash.dll
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/bin/Debug/net8.0/MySql.Data.dll
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/bin/Debug/net8.0/MySql.EntityFrameworkCore.dll
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/bin/Debug/net8.0/Newtonsoft.Json.dll
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/bin/Debug/net8.0/System.Drawing.Common.dll
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/bin/Debug/net8.0/System.Security.Permissions.dll
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/bin/Debug/net8.0/System.Windows.Extensions.dll
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/bin/Debug/net8.0/ZstdSharp.dll
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/bin/Debug/net8.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/bin/Debug/net8.0/runtimes/win-x64/native/comerr64.dll
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/bin/Debug/net8.0/runtimes/win-x64/native/gssapi64.dll
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/bin/Debug/net8.0/runtimes/win-x64/native/k5sprt64.dll
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/bin/Debug/net8.0/runtimes/win-x64/native/krb5_64.dll
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/bin/Debug/net8.0/runtimes/win-x64/native/krbcc64.dll
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/bin/Debug/net8.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/bin/Debug/net8.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/bin/Debug/net8.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/bin/Debug/net8.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/obj/Debug/net8.0/Sistema.csproj.AssemblyReference.cache
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/obj/Debug/net8.0/Sistema.GeneratedMSBuildEditorConfig.editorconfig
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/obj/Debug/net8.0/Sistema.AssemblyInfoInputs.cache
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/obj/Debug/net8.0/Sistema.AssemblyInfo.cs
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/obj/Debug/net8.0/Sistema.csproj.CoreCompileInputs.cache
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/obj/Debug/net8.0/Sistema.MvcApplicationPartsAssemblyInfo.cache
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/obj/Debug/net8.0/Sistema.RazorAssemblyInfo.cache
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/obj/Debug/net8.0/Sistema.RazorAssemblyInfo.cs
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/obj/Debug/net8.0/Sistema.sourcelink.json
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/obj/Debug/net8.0/staticwebassets.build.json
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/obj/Debug/net8.0/staticwebassets.development.json
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/obj/Debug/net8.0/staticwebassets/msbuild.Sistema.Microsoft.AspNetCore.StaticWebAssets.props
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/obj/Debug/net8.0/staticwebassets/msbuild.build.Sistema.props
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Sistema.props
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Sistema.props
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/obj/Debug/net8.0/staticwebassets.pack.json
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/obj/Debug/net8.0/scopedcss/bundle/Sistema.styles.css
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/obj/Debug/net8.0/scopedcss/projectbundle/Sistema.bundle.scp.css
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/obj/Debug/net8.0/Sistema.csproj.CopyComplete
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/obj/Debug/net8.0/Sistema.dll
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/obj/Debug/net8.0/refint/Sistema.dll
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/obj/Debug/net8.0/Sistema.pdb
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/obj/Debug/net8.0/Sistema.genruntimeconfig.cache
+/media/riwip4-030/E4C2-A45E/importante proyecto/sistema/obj/Debug/net8.0/ref/Sistema.dll
+/home/riwip4-030/Desktop/sistema/bin/Debug/net8.0/appsettings.Development.json
+/home/riwip4-030/Desktop/sistema/bin/Debug/net8.0/appsettings.json
+/home/riwip4-030/Desktop/sistema/bin/Debug/net8.0/Sistema.staticwebassets.runtime.json
+/home/riwip4-030/Desktop/sistema/bin/Debug/net8.0/Sistema
+/home/riwip4-030/Desktop/sistema/bin/Debug/net8.0/Sistema.deps.json
+/home/riwip4-030/Desktop/sistema/bin/Debug/net8.0/Sistema.runtimeconfig.json
+/home/riwip4-030/Desktop/sistema/bin/Debug/net8.0/Sistema.dll
+/home/riwip4-030/Desktop/sistema/bin/Debug/net8.0/Sistema.pdb
+/home/riwip4-030/Desktop/sistema/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
+/home/riwip4-030/Desktop/sistema/bin/Debug/net8.0/Google.Protobuf.dll
+/home/riwip4-030/Desktop/sistema/bin/Debug/net8.0/K4os.Compression.LZ4.dll
+/home/riwip4-030/Desktop/sistema/bin/Debug/net8.0/K4os.Compression.LZ4.Streams.dll
+/home/riwip4-030/Desktop/sistema/bin/Debug/net8.0/K4os.Hash.xxHash.dll
+/home/riwip4-030/Desktop/sistema/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/riwip4-030/Desktop/sistema/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/riwip4-030/Desktop/sistema/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/riwip4-030/Desktop/sistema/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/home/riwip4-030/Desktop/sistema/bin/Debug/net8.0/MySql.Data.dll
+/home/riwip4-030/Desktop/sistema/bin/Debug/net8.0/MySql.EntityFrameworkCore.dll
+/home/riwip4-030/Desktop/sistema/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/riwip4-030/Desktop/sistema/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/home/riwip4-030/Desktop/sistema/bin/Debug/net8.0/System.Drawing.Common.dll
+/home/riwip4-030/Desktop/sistema/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/home/riwip4-030/Desktop/sistema/bin/Debug/net8.0/System.Security.Permissions.dll
+/home/riwip4-030/Desktop/sistema/bin/Debug/net8.0/System.Windows.Extensions.dll
+/home/riwip4-030/Desktop/sistema/bin/Debug/net8.0/ZstdSharp.dll
+/home/riwip4-030/Desktop/sistema/bin/Debug/net8.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/home/riwip4-030/Desktop/sistema/bin/Debug/net8.0/runtimes/win-x64/native/comerr64.dll
+/home/riwip4-030/Desktop/sistema/bin/Debug/net8.0/runtimes/win-x64/native/gssapi64.dll
+/home/riwip4-030/Desktop/sistema/bin/Debug/net8.0/runtimes/win-x64/native/k5sprt64.dll
+/home/riwip4-030/Desktop/sistema/bin/Debug/net8.0/runtimes/win-x64/native/krb5_64.dll
+/home/riwip4-030/Desktop/sistema/bin/Debug/net8.0/runtimes/win-x64/native/krbcc64.dll
+/home/riwip4-030/Desktop/sistema/bin/Debug/net8.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/riwip4-030/Desktop/sistema/bin/Debug/net8.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/riwip4-030/Desktop/sistema/bin/Debug/net8.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/riwip4-030/Desktop/sistema/bin/Debug/net8.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/home/riwip4-030/Desktop/sistema/obj/Debug/net8.0/Sistema.csproj.AssemblyReference.cache
+/home/riwip4-030/Desktop/sistema/obj/Debug/net8.0/Sistema.GeneratedMSBuildEditorConfig.editorconfig
+/home/riwip4-030/Desktop/sistema/obj/Debug/net8.0/Sistema.AssemblyInfoInputs.cache
+/home/riwip4-030/Desktop/sistema/obj/Debug/net8.0/Sistema.AssemblyInfo.cs
+/home/riwip4-030/Desktop/sistema/obj/Debug/net8.0/Sistema.csproj.CoreCompileInputs.cache
+/home/riwip4-030/Desktop/sistema/obj/Debug/net8.0/Sistema.MvcApplicationPartsAssemblyInfo.cache
+/home/riwip4-030/Desktop/sistema/obj/Debug/net8.0/Sistema.RazorAssemblyInfo.cache
+/home/riwip4-030/Desktop/sistema/obj/Debug/net8.0/Sistema.RazorAssemblyInfo.cs
+/home/riwip4-030/Desktop/sistema/obj/Debug/net8.0/Sistema.sourcelink.json
+/home/riwip4-030/Desktop/sistema/obj/Debug/net8.0/staticwebassets.build.json
+/home/riwip4-030/Desktop/sistema/obj/Debug/net8.0/staticwebassets.development.json
+/home/riwip4-030/Desktop/sistema/obj/Debug/net8.0/staticwebassets/msbuild.Sistema.Microsoft.AspNetCore.StaticWebAssets.props
+/home/riwip4-030/Desktop/sistema/obj/Debug/net8.0/staticwebassets/msbuild.build.Sistema.props
+/home/riwip4-030/Desktop/sistema/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Sistema.props
+/home/riwip4-030/Desktop/sistema/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Sistema.props
+/home/riwip4-030/Desktop/sistema/obj/Debug/net8.0/staticwebassets.pack.json
+/home/riwip4-030/Desktop/sistema/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/riwip4-030/Desktop/sistema/obj/Debug/net8.0/scopedcss/bundle/Sistema.styles.css
+/home/riwip4-030/Desktop/sistema/obj/Debug/net8.0/scopedcss/projectbundle/Sistema.bundle.scp.css
+/home/riwip4-030/Desktop/sistema/obj/Debug/net8.0/Sistema.csproj.CopyComplete
+/home/riwip4-030/Desktop/sistema/obj/Debug/net8.0/Sistema.dll
+/home/riwip4-030/Desktop/sistema/obj/Debug/net8.0/refint/Sistema.dll
+/home/riwip4-030/Desktop/sistema/obj/Debug/net8.0/Sistema.pdb
+/home/riwip4-030/Desktop/sistema/obj/Debug/net8.0/Sistema.genruntimeconfig.cache
+/home/riwip4-030/Desktop/sistema/obj/Debug/net8.0/ref/Sistema.dll
+/home/riwip5-018/Desktop/sistema/bin/Debug/net8.0/appsettings.Development.json
+/home/riwip5-018/Desktop/sistema/bin/Debug/net8.0/appsettings.json
+/home/riwip5-018/Desktop/sistema/bin/Debug/net8.0/Sistema.staticwebassets.runtime.json
+/home/riwip5-018/Desktop/sistema/bin/Debug/net8.0/Sistema
+/home/riwip5-018/Desktop/sistema/bin/Debug/net8.0/Sistema.deps.json
+/home/riwip5-018/Desktop/sistema/bin/Debug/net8.0/Sistema.runtimeconfig.json
+/home/riwip5-018/Desktop/sistema/bin/Debug/net8.0/Sistema.dll
+/home/riwip5-018/Desktop/sistema/bin/Debug/net8.0/Sistema.pdb
+/home/riwip5-018/Desktop/sistema/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
+/home/riwip5-018/Desktop/sistema/bin/Debug/net8.0/Google.Protobuf.dll
+/home/riwip5-018/Desktop/sistema/bin/Debug/net8.0/K4os.Compression.LZ4.dll
+/home/riwip5-018/Desktop/sistema/bin/Debug/net8.0/K4os.Compression.LZ4.Streams.dll
+/home/riwip5-018/Desktop/sistema/bin/Debug/net8.0/K4os.Hash.xxHash.dll
+/home/riwip5-018/Desktop/sistema/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/riwip5-018/Desktop/sistema/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/riwip5-018/Desktop/sistema/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/riwip5-018/Desktop/sistema/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/home/riwip5-018/Desktop/sistema/bin/Debug/net8.0/MySql.Data.dll
+/home/riwip5-018/Desktop/sistema/bin/Debug/net8.0/MySql.EntityFrameworkCore.dll
+/home/riwip5-018/Desktop/sistema/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/riwip5-018/Desktop/sistema/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/home/riwip5-018/Desktop/sistema/bin/Debug/net8.0/System.Drawing.Common.dll
+/home/riwip5-018/Desktop/sistema/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/home/riwip5-018/Desktop/sistema/bin/Debug/net8.0/System.Security.Permissions.dll
+/home/riwip5-018/Desktop/sistema/bin/Debug/net8.0/System.Windows.Extensions.dll
+/home/riwip5-018/Desktop/sistema/bin/Debug/net8.0/ZstdSharp.dll
+/home/riwip5-018/Desktop/sistema/bin/Debug/net8.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/home/riwip5-018/Desktop/sistema/bin/Debug/net8.0/runtimes/win-x64/native/comerr64.dll
+/home/riwip5-018/Desktop/sistema/bin/Debug/net8.0/runtimes/win-x64/native/gssapi64.dll
+/home/riwip5-018/Desktop/sistema/bin/Debug/net8.0/runtimes/win-x64/native/k5sprt64.dll
+/home/riwip5-018/Desktop/sistema/bin/Debug/net8.0/runtimes/win-x64/native/krb5_64.dll
+/home/riwip5-018/Desktop/sistema/bin/Debug/net8.0/runtimes/win-x64/native/krbcc64.dll
+/home/riwip5-018/Desktop/sistema/bin/Debug/net8.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/riwip5-018/Desktop/sistema/bin/Debug/net8.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/riwip5-018/Desktop/sistema/bin/Debug/net8.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/riwip5-018/Desktop/sistema/bin/Debug/net8.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/home/riwip5-018/Desktop/sistema/obj/Debug/net8.0/Sistema.csproj.AssemblyReference.cache
+/home/riwip5-018/Desktop/sistema/obj/Debug/net8.0/Sistema.GeneratedMSBuildEditorConfig.editorconfig
+/home/riwip5-018/Desktop/sistema/obj/Debug/net8.0/Sistema.AssemblyInfoInputs.cache
+/home/riwip5-018/Desktop/sistema/obj/Debug/net8.0/Sistema.AssemblyInfo.cs
+/home/riwip5-018/Desktop/sistema/obj/Debug/net8.0/Sistema.csproj.CoreCompileInputs.cache
+/home/riwip5-018/Desktop/sistema/obj/Debug/net8.0/Sistema.MvcApplicationPartsAssemblyInfo.cache
+/home/riwip5-018/Desktop/sistema/obj/Debug/net8.0/Sistema.RazorAssemblyInfo.cache
+/home/riwip5-018/Desktop/sistema/obj/Debug/net8.0/Sistema.RazorAssemblyInfo.cs
+/home/riwip5-018/Desktop/sistema/obj/Debug/net8.0/Sistema.sourcelink.json
+/home/riwip5-018/Desktop/sistema/obj/Debug/net8.0/staticwebassets.build.json
+/home/riwip5-018/Desktop/sistema/obj/Debug/net8.0/staticwebassets.development.json
+/home/riwip5-018/Desktop/sistema/obj/Debug/net8.0/staticwebassets/msbuild.Sistema.Microsoft.AspNetCore.StaticWebAssets.props
+/home/riwip5-018/Desktop/sistema/obj/Debug/net8.0/staticwebassets/msbuild.build.Sistema.props
+/home/riwip5-018/Desktop/sistema/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Sistema.props
+/home/riwip5-018/Desktop/sistema/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Sistema.props
+/home/riwip5-018/Desktop/sistema/obj/Debug/net8.0/staticwebassets.pack.json
+/home/riwip5-018/Desktop/sistema/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/riwip5-018/Desktop/sistema/obj/Debug/net8.0/scopedcss/bundle/Sistema.styles.css
+/home/riwip5-018/Desktop/sistema/obj/Debug/net8.0/scopedcss/projectbundle/Sistema.bundle.scp.css
+/home/riwip5-018/Desktop/sistema/obj/Debug/net8.0/Sistema.csproj.CopyComplete
+/home/riwip5-018/Desktop/sistema/obj/Debug/net8.0/Sistema.dll
+/home/riwip5-018/Desktop/sistema/obj/Debug/net8.0/refint/Sistema.dll
+/home/riwip5-018/Desktop/sistema/obj/Debug/net8.0/Sistema.pdb
+/home/riwip5-018/Desktop/sistema/obj/Debug/net8.0/Sistema.genruntimeconfig.cache
+/home/riwip5-018/Desktop/sistema/obj/Debug/net8.0/ref/Sistema.dll
+E:/Copia de seguridad PC/sistema/sistema/obj/Debug/net8.0/Sistema.csproj.AssemblyReference.cache
+E:/Copia de seguridad PC/sistema/sistema/obj/Debug/net8.0/Sistema.GeneratedMSBuildEditorConfig.editorconfig
+E:/Copia de seguridad PC/sistema/sistema/obj/Debug/net8.0/Sistema.AssemblyInfoInputs.cache
+E:/Copia de seguridad PC/sistema/sistema/obj/Debug/net8.0/Sistema.AssemblyInfo.cs
+E:/Copia de seguridad PC/sistema/sistema/obj/Debug/net8.0/Sistema.csproj.CoreCompileInputs.cache
+E:/Copia de seguridad PC/sistema/sistema/obj/Debug/net8.0/Sistema.MvcApplicationPartsAssemblyInfo.cache
+E:/Copia de seguridad PC/sistema/sistema/obj/Debug/net8.0/Sistema.RazorAssemblyInfo.cache
+E:/Copia de seguridad PC/sistema/sistema/obj/Debug/net8.0/Sistema.RazorAssemblyInfo.cs
+E:/Copia de seguridad PC/sistema/sistema/obj/Debug/net8.0/Sistema.sourcelink.json
+E:/Copia de seguridad PC/sistema/sistema/obj/Debug/net8.0/Sistema.dll
+E:/Copia de seguridad PC/sistema/sistema/obj/Debug/net8.0/refint/Sistema.dll
+E:/Copia de seguridad PC/sistema/sistema/obj/Debug/net8.0/Sistema.pdb
+E:/Copia de seguridad PC/sistema/sistema/bin/Debug/net8.0/appsettings.Development.json
+E:/Copia de seguridad PC/sistema/sistema/bin/Debug/net8.0/appsettings.json
+E:/Copia de seguridad PC/sistema/sistema/bin/Debug/net8.0/Sistema.staticwebassets.runtime.json
+E:/Copia de seguridad PC/sistema/sistema/bin/Debug/net8.0/Sistema.exe
+E:/Copia de seguridad PC/sistema/sistema/bin/Debug/net8.0/Sistema.deps.json
+E:/Copia de seguridad PC/sistema/sistema/bin/Debug/net8.0/Sistema.runtimeconfig.json
+E:/Copia de seguridad PC/sistema/sistema/bin/Debug/net8.0/Sistema.dll
+E:/Copia de seguridad PC/sistema/sistema/bin/Debug/net8.0/Sistema.pdb
+E:/Copia de seguridad PC/sistema/sistema/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
+E:/Copia de seguridad PC/sistema/sistema/bin/Debug/net8.0/Google.Protobuf.dll
+E:/Copia de seguridad PC/sistema/sistema/bin/Debug/net8.0/K4os.Compression.LZ4.dll
+E:/Copia de seguridad PC/sistema/sistema/bin/Debug/net8.0/K4os.Compression.LZ4.Streams.dll
+E:/Copia de seguridad PC/sistema/sistema/bin/Debug/net8.0/K4os.Hash.xxHash.dll
+E:/Copia de seguridad PC/sistema/sistema/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+E:/Copia de seguridad PC/sistema/sistema/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+E:/Copia de seguridad PC/sistema/sistema/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+E:/Copia de seguridad PC/sistema/sistema/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+E:/Copia de seguridad PC/sistema/sistema/bin/Debug/net8.0/MySql.Data.dll
+E:/Copia de seguridad PC/sistema/sistema/bin/Debug/net8.0/MySql.EntityFrameworkCore.dll
+E:/Copia de seguridad PC/sistema/sistema/bin/Debug/net8.0/Newtonsoft.Json.dll
+E:/Copia de seguridad PC/sistema/sistema/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+E:/Copia de seguridad PC/sistema/sistema/bin/Debug/net8.0/System.Drawing.Common.dll
+E:/Copia de seguridad PC/sistema/sistema/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+E:/Copia de seguridad PC/sistema/sistema/bin/Debug/net8.0/System.Security.Permissions.dll
+E:/Copia de seguridad PC/sistema/sistema/bin/Debug/net8.0/System.Windows.Extensions.dll
+E:/Copia de seguridad PC/sistema/sistema/bin/Debug/net8.0/ZstdSharp.dll
+E:/Copia de seguridad PC/sistema/sistema/bin/Debug/net8.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+E:/Copia de seguridad PC/sistema/sistema/bin/Debug/net8.0/runtimes/win-x64/native/comerr64.dll
+E:/Copia de seguridad PC/sistema/sistema/bin/Debug/net8.0/runtimes/win-x64/native/gssapi64.dll
+E:/Copia de seguridad PC/sistema/sistema/bin/Debug/net8.0/runtimes/win-x64/native/k5sprt64.dll
+E:/Copia de seguridad PC/sistema/sistema/bin/Debug/net8.0/runtimes/win-x64/native/krb5_64.dll
+E:/Copia de seguridad PC/sistema/sistema/bin/Debug/net8.0/runtimes/win-x64/native/krbcc64.dll
+E:/Copia de seguridad PC/sistema/sistema/bin/Debug/net8.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+E:/Copia de seguridad PC/sistema/sistema/bin/Debug/net8.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+E:/Copia de seguridad PC/sistema/sistema/bin/Debug/net8.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+E:/Copia de seguridad PC/sistema/sistema/bin/Debug/net8.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+E:/Copia de seguridad PC/sistema/sistema/obj/Debug/net8.0/staticwebassets.build.json
+E:/Copia de seguridad PC/sistema/sistema/obj/Debug/net8.0/staticwebassets.development.json
+E:/Copia de seguridad PC/sistema/sistema/obj/Debug/net8.0/staticwebassets/msbuild.Sistema.Microsoft.AspNetCore.StaticWebAssets.props
+E:/Copia de seguridad PC/sistema/sistema/obj/Debug/net8.0/staticwebassets/msbuild.build.Sistema.props
+E:/Copia de seguridad PC/sistema/sistema/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Sistema.props
+E:/Copia de seguridad PC/sistema/sistema/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Sistema.props
+E:/Copia de seguridad PC/sistema/sistema/obj/Debug/net8.0/staticwebassets.pack.json
+E:/Copia de seguridad PC/sistema/sistema/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+E:/Copia de seguridad PC/sistema/sistema/obj/Debug/net8.0/scopedcss/bundle/Sistema.styles.css
+E:/Copia de seguridad PC/sistema/sistema/obj/Debug/net8.0/scopedcss/projectbundle/Sistema.bundle.scp.css
+E:/Copia de seguridad PC/sistema/sistema/obj/Debug/net8.0/Sistema.csproj.Up2Date
+E:/Copia de seguridad PC/sistema/sistema/obj/Debug/net8.0/Sistema.genruntimeconfig.cache
+E:/Copia de seguridad PC/sistema/sistema/obj/Debug/net8.0/ref/Sistema.dll
+/home/riwip5-018/Desktop/sistema-amy/sistema/bin/Debug/net8.0/appsettings.Development.json
+/home/riwip5-018/Desktop/sistema-amy/sistema/bin/Debug/net8.0/appsettings.json
+/home/riwip5-018/Desktop/sistema-amy/sistema/bin/Debug/net8.0/Sistema.staticwebassets.runtime.json
+/home/riwip5-018/Desktop/sistema-amy/sistema/bin/Debug/net8.0/Sistema
+/home/riwip5-018/Desktop/sistema-amy/sistema/bin/Debug/net8.0/Sistema.deps.json
+/home/riwip5-018/Desktop/sistema-amy/sistema/bin/Debug/net8.0/Sistema.runtimeconfig.json
+/home/riwip5-018/Desktop/sistema-amy/sistema/bin/Debug/net8.0/Sistema.dll
+/home/riwip5-018/Desktop/sistema-amy/sistema/bin/Debug/net8.0/Sistema.pdb
+/home/riwip5-018/Desktop/sistema-amy/sistema/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
+/home/riwip5-018/Desktop/sistema-amy/sistema/bin/Debug/net8.0/Google.Protobuf.dll
+/home/riwip5-018/Desktop/sistema-amy/sistema/bin/Debug/net8.0/K4os.Compression.LZ4.dll
+/home/riwip5-018/Desktop/sistema-amy/sistema/bin/Debug/net8.0/K4os.Compression.LZ4.Streams.dll
+/home/riwip5-018/Desktop/sistema-amy/sistema/bin/Debug/net8.0/K4os.Hash.xxHash.dll
+/home/riwip5-018/Desktop/sistema-amy/sistema/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/riwip5-018/Desktop/sistema-amy/sistema/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/riwip5-018/Desktop/sistema-amy/sistema/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/riwip5-018/Desktop/sistema-amy/sistema/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/home/riwip5-018/Desktop/sistema-amy/sistema/bin/Debug/net8.0/MySql.Data.dll
+/home/riwip5-018/Desktop/sistema-amy/sistema/bin/Debug/net8.0/MySql.EntityFrameworkCore.dll
+/home/riwip5-018/Desktop/sistema-amy/sistema/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/riwip5-018/Desktop/sistema-amy/sistema/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/home/riwip5-018/Desktop/sistema-amy/sistema/bin/Debug/net8.0/System.Drawing.Common.dll
+/home/riwip5-018/Desktop/sistema-amy/sistema/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/home/riwip5-018/Desktop/sistema-amy/sistema/bin/Debug/net8.0/System.Security.Permissions.dll
+/home/riwip5-018/Desktop/sistema-amy/sistema/bin/Debug/net8.0/System.Windows.Extensions.dll
+/home/riwip5-018/Desktop/sistema-amy/sistema/bin/Debug/net8.0/ZstdSharp.dll
+/home/riwip5-018/Desktop/sistema-amy/sistema/bin/Debug/net8.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/home/riwip5-018/Desktop/sistema-amy/sistema/bin/Debug/net8.0/runtimes/win-x64/native/comerr64.dll
+/home/riwip5-018/Desktop/sistema-amy/sistema/bin/Debug/net8.0/runtimes/win-x64/native/gssapi64.dll
+/home/riwip5-018/Desktop/sistema-amy/sistema/bin/Debug/net8.0/runtimes/win-x64/native/k5sprt64.dll
+/home/riwip5-018/Desktop/sistema-amy/sistema/bin/Debug/net8.0/runtimes/win-x64/native/krb5_64.dll
+/home/riwip5-018/Desktop/sistema-amy/sistema/bin/Debug/net8.0/runtimes/win-x64/native/krbcc64.dll
+/home/riwip5-018/Desktop/sistema-amy/sistema/bin/Debug/net8.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/riwip5-018/Desktop/sistema-amy/sistema/bin/Debug/net8.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/riwip5-018/Desktop/sistema-amy/sistema/bin/Debug/net8.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/riwip5-018/Desktop/sistema-amy/sistema/bin/Debug/net8.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/home/riwip5-018/Desktop/sistema-amy/sistema/obj/Debug/net8.0/Sistema.csproj.AssemblyReference.cache
+/home/riwip5-018/Desktop/sistema-amy/sistema/obj/Debug/net8.0/Sistema.GeneratedMSBuildEditorConfig.editorconfig
+/home/riwip5-018/Desktop/sistema-amy/sistema/obj/Debug/net8.0/Sistema.AssemblyInfoInputs.cache
+/home/riwip5-018/Desktop/sistema-amy/sistema/obj/Debug/net8.0/Sistema.AssemblyInfo.cs
+/home/riwip5-018/Desktop/sistema-amy/sistema/obj/Debug/net8.0/Sistema.csproj.CoreCompileInputs.cache
+/home/riwip5-018/Desktop/sistema-amy/sistema/obj/Debug/net8.0/Sistema.MvcApplicationPartsAssemblyInfo.cache
+/home/riwip5-018/Desktop/sistema-amy/sistema/obj/Debug/net8.0/Sistema.RazorAssemblyInfo.cache
+/home/riwip5-018/Desktop/sistema-amy/sistema/obj/Debug/net8.0/Sistema.RazorAssemblyInfo.cs
+/home/riwip5-018/Desktop/sistema-amy/sistema/obj/Debug/net8.0/Sistema.sourcelink.json
+/home/riwip5-018/Desktop/sistema-amy/sistema/obj/Debug/net8.0/staticwebassets.build.json
+/home/riwip5-018/Desktop/sistema-amy/sistema/obj/Debug/net8.0/staticwebassets.development.json
+/home/riwip5-018/Desktop/sistema-amy/sistema/obj/Debug/net8.0/staticwebassets/msbuild.Sistema.Microsoft.AspNetCore.StaticWebAssets.props
+/home/riwip5-018/Desktop/sistema-amy/sistema/obj/Debug/net8.0/staticwebassets/msbuild.build.Sistema.props
+/home/riwip5-018/Desktop/sistema-amy/sistema/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Sistema.props
+/home/riwip5-018/Desktop/sistema-amy/sistema/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Sistema.props
+/home/riwip5-018/Desktop/sistema-amy/sistema/obj/Debug/net8.0/staticwebassets.pack.json
+/home/riwip5-018/Desktop/sistema-amy/sistema/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/riwip5-018/Desktop/sistema-amy/sistema/obj/Debug/net8.0/scopedcss/bundle/Sistema.styles.css
+/home/riwip5-018/Desktop/sistema-amy/sistema/obj/Debug/net8.0/scopedcss/projectbundle/Sistema.bundle.scp.css
+/home/riwip5-018/Desktop/sistema-amy/sistema/obj/Debug/net8.0/Sistema.csproj.CopyComplete
+/home/riwip5-018/Desktop/sistema-amy/sistema/obj/Debug/net8.0/Sistema.dll
+/home/riwip5-018/Desktop/sistema-amy/sistema/obj/Debug/net8.0/refint/Sistema.dll
+/home/riwip5-018/Desktop/sistema-amy/sistema/obj/Debug/net8.0/Sistema.pdb
+/home/riwip5-018/Desktop/sistema-amy/sistema/obj/Debug/net8.0/Sistema.genruntimeconfig.cache
+/home/riwip5-018/Desktop/sistema-amy/sistema/obj/Debug/net8.0/ref/Sistema.dll

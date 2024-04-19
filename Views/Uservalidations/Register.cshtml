@@ -1,0 +1,34 @@
+@model Sistema.Models.Employee;
+
+<div class="d-flex flex-column mt-5 align-items-center">
+    <h1 class="h12">UsersCorp</h1>
+    <h3 class="mt-5">Register</h3>
+    <div class="cardr d-flex flex-column mt-3 align-items-center">
+    <form method="post" enctype="multipart/form-data" class="d-flex flex-column mt-3 align-items-center" asp-controller="Uservalidations" asp-action="Register">
+        <div>
+            <input asp-for="Name" class="input1 mt-4" type="text" id="name" placeholder="Name"/>
+        </div>
+        <div>
+            <input asp-for="LastNames" class="input1 mt-4" type="text" id="lastname"  placeholder="Lastname"/>
+        </div>
+        <div>
+            <input asp-for="Email" class="input1 mt-4" type="text" id="email" placeholder="Email"/>
+        </div>
+        <div>
+            <input asp-for="Phone" class="input1 mt-4" type="phone" id="phone" placeholder="Phone"/>
+        </div>
+        <div>
+            <input asp-for="Password" class="input1 mt-4" type="password" id="password"  placeholder="Password"/>
+        </div>
+        <div>
+            <label for="ejemplo" class="btnimg mt-4">Upload IMG</label>
+            <input type="file"  style="display: none;" name="imagen" id="ejemplo">
+        </div>
+        <div>
+            <button type="submit" class="button2l2 mt-3 " asp-controller="Uservalidations" asp-action="Create">Register</button>
+        </div>
+    </form>
+    <div>
+        <a class="button2l mt-1" asp-controller="Uservalidations" asp-action="Login">Log In</a>
+    </div>
+</div></div>
