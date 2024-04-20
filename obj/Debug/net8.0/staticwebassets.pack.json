@@ -13,8 +13,20 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/home/riwip5-018/Desktop/sistema-amy/sistema/wwwroot/images/148826845.jpeg",
+      "PackagePath": "staticwebassets/images/148826845.jpeg"
+    },
+    {
+      "Id": "/home/riwip5-018/Desktop/sistema-amy/sistema/wwwroot/images/pablo.jpg",
+      "PackagePath": "staticwebassets/images/pablo.jpg"
+    },
+    {
       "Id": "/home/riwip5-018/Desktop/sistema-amy/sistema/wwwroot/images/perfil.jpg",
       "PackagePath": "staticwebassets/images/perfil.jpg"
+    },
+    {
+      "Id": "/home/riwip5-018/Desktop/sistema-amy/sistema/wwwroot/images/unnamed.webp",
+      "PackagePath": "staticwebassets/images/unnamed.webp"
     },
     {
       "Id": "/home/riwip5-018/Desktop/sistema-amy/sistema/wwwroot/js/site.js",

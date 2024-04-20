@@ -75,7 +75,7 @@ namespace Sistema.Controllers
         //3.5 Logout
         public async Task<IActionResult> Logout()
         {
-            HttpContext.Session.Remove("sesion");
+            HttpContext.Session.Clear();
             return RedirectToAction("Login");
         }
         [HttpGet]

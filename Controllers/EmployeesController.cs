@@ -4,6 +4,7 @@ using Sistema.Data;
 using Sistema.Helpers;
 using Sistema.Provaiders;
 using Microsoft.EntityFrameworkCore;
+using System.Text.RegularExpressions;
 
 
 /*
@@ -43,13 +44,15 @@ namespace Sistema.Controllers
         private readonly ExamenContext _context;
         private readonly HelperUploadFiles _helperUploadFiles;
         private readonly PathProvaider _pathProvaider;
+        private readonly IWebHostEnvironment _hostEnvironment;
 
         //2.1 Constructor
-        public EmployeesController(ExamenContext context, HelperUploadFiles helperUploadFiles, PathProvaider pathProvaider)
+        public EmployeesController(ExamenContext context, HelperUploadFiles helperUploadFiles, PathProvaider pathProvaider, IWebHostEnvironment hostEnvironment)
         {
             _context = context;
             _helperUploadFiles = helperUploadFiles;
             _pathProvaider = pathProvaider;
+            _hostEnvironment = hostEnvironment;
         }
 
         //3. Controladores
@@ -140,8 +143,11 @@ namespace Sistema.Controllers
                     var user = _context.Employees.Find(id);
                     var registros = from register in _context.DateHistory select register;
                     registros = registros.Where(x => x.EmployeesId == user.Id);
+                    var path = Path.Combine(_hostEnvironment.WebRootPath, "images", user.Image);
+                    Console.WriteLine(path);
+                    Regex regex = new Regex(@"/images/\w+\W\w+");
                     ViewData["id"] = user.Id;
-                    ViewData["image"] = user.Image;
+                    ViewData["image"] = regex.Match(path);
                     ViewData["name"] = user.Name;
                     ViewData["Lastnames"] = user.LastNames;
                     ViewData["email"] = user.Email;
